@@ -5,7 +5,7 @@ function Resume(props) {
     return (
         <section>
             <h1>Take a closer look at my experience...</h1>
-            <a href= {resume } target='_blank' rel='noreferrer'>Danielle James ~ Resume</a>
+            <a href= {resume} target='_blank' rel='noreferrer'>Danielle James ~ Resume</a>
             
         </section>
     )
