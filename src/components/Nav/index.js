@@ -13,7 +13,7 @@ function Nav(props) {
       return (
         <header>
             <h2>
-                <a href="/">
+                <a href="#">
                 <span role="img" aria-label="laptop"> 💻</span> Danielle James
                 </a>
             </h2>
